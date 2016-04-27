@@ -1,0 +1,28 @@
+name: wordtoallnations
+favicon: null
+layout_spectrum: 0.3719506124034524
+typography_spectrum: 0.35302452160976827
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.910226519452408
+  lightness: 0.31476312316954136
+  saturation: 0.3425754636991769
+  rhythmicContrast: 0.7151668949518353
+purpose: []
